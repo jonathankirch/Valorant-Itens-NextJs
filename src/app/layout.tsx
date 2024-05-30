@@ -58,6 +58,7 @@ export default function RootLayout({
     <html lang="pt-br" className="scroll-smooth">
       <head>
         <link rel="shortcut icon" href="valorantIcon.ico" type="image/x-icon" />
+        <meta name="google-adsense-account" content="ca-pub-9286412141582022"></meta>
       </head>
       <body className={`${inconsolata.variable} ${oswald.variable}`}>
         <MainContainer>
