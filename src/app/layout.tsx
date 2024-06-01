@@ -59,6 +59,12 @@ export default function RootLayout({
       <head>
         <link rel="shortcut icon" href="valorantIcon.ico" type="image/x-icon" />
         <meta name="google-adsense-account" content="ca-pub-9286412141582022"></meta>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9286412141582022"
+          crossOrigin="anonymous"
+        ></script>
+
       </head>
       <body className={`${inconsolata.variable} ${oswald.variable}`}>
         <MainContainer>
