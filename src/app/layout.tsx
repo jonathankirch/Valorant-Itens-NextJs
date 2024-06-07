@@ -1,3 +1,5 @@
+// --output_wrapper
+
 import MainContainer from "./components/MainContainer";
 import "./globals.css";
 import { Metadata } from 'next'
